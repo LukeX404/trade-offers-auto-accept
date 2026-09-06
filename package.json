@@ -19,7 +19,7 @@
     "steamcommunity": "^3.48.6"
   },
   "devDependencies": {
-    "@types/node": "^20.17.24",
+    "@types/node": "^26.4.1",
     "@types/steam-totp": "^2.1.2",
     "@types/steam-tradeoffer-manager": "^2.11.2",
     "@types/steam-user": "^5.0.4",
