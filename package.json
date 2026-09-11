@@ -13,7 +13,7 @@
   "description": "",
   "dependencies": {
     "axios": "^1.8.2",
-    "dotenv": "^16.4.7",
+    "dotenv": "^17.4.2",
     "steam-tradeoffer-manager": "^2.11.7",
     "steam-user": "^5.2.0",
     "steamcommunity": "^3.48.6"
